@@ -1,0 +1,43 @@
+Shortlist:
+	arc 
+	C 
+	Ooc 
+	coffeescript 
+	D 
+	erlang 
+	F# 
+	Go 
+	Haskell 
+	Io 
+	Lua 
+	R 
+	scala 
+	smalltalk 
+	tcl 
+	viml 
+	xquery
+
+
+Slightly longer list:
+	arc 
+	boo 
+	C 
+	coffeescript 
+	D 
+	erlang 
+	F# 
+	Go 
+	Haskell 
+	Io 
+	Java 
+	Lua 
+	Max/Msp 
+	Nu 
+	ooc 
+	php 
+	R 
+	scala 
+	smalltalk 
+	tcl 
+	viml 
+	xquery

@@ -1,55 +1,15 @@
+#The Plan
+
 Work thru "projecteuler" projecteuler.net.
 
-Pick at least one language from each letter from the github language page. https://github.com/languages
+
+Pick from "thelist" at least one language for each problem.
+
+"thelist" must be selected from the github page of languages https://github.com/languages
 
 
-Shortlist:
-arc 
-C 
-coffeescript 
-D 
-erlang 
-F# 
-Go 
-Haskell 
-Io 
-Lua 
-Ooc 
-R 
-scala 
-smalltalk 
-tcl 
-viml 
-xquery
+#Problem:
 
-
-Slightly longer list:
-
-arc 
-boo 
-C 
-coffeescript 
-D 
-erlang 
-F# 
-Go 
-Haskell 
-Io 
-Java 
-Lua 
-Max/Msp 
-Nu 
-ooc 
-php 
-R 
-scala 
-smalltalk 
-tcl 
-viml 
-xquery
-
-
-Problem:
 Each problem will have its own folder, and each folder below that will be for which ever language I tackle it in from my "Short list".
 
 ie.
