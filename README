@@ -1,0 +1,64 @@
+Work thru "projecteuler" projecteuler.net.
+
+Pick at least one language from each letter from the github language page. https://github.com/languages
+
+
+Shortlist:
+arc 
+C 
+coffeescript 
+D 
+erlang 
+F# 
+Go 
+Haskell 
+Io 
+Lua 
+Ooc 
+R 
+scala 
+smalltalk 
+tcl 
+viml 
+xquery
+
+
+Slightly longer list:
+
+arc 
+boo 
+C 
+coffeescript 
+D 
+erlang 
+F# 
+Go 
+Haskell 
+Io 
+Java 
+Lua 
+Max/Msp 
+Nu 
+ooc 
+php 
+R 
+scala 
+smalltalk 
+tcl 
+viml 
+xquery
+
+
+Problem:
+Each problem will have its own folder, and each folder below that will be for which ever language I tackle it in from my "Short list".
+
+ie.
+1
+|-- arc
+|-- R
+2
+|-- Io
+
+etc
+
+At the start of this, I can safely say from my "Short list" I have only used "xquery" via xpath in javascript and php. It should be a fun trip.
