@@ -13,11 +13,11 @@ Pick from "thelist" at least one language for each problem.
 Each problem will have its own folder, and each folder below that will be for which ever language I tackle it in from my "Short list".
 
 ie.
-1
+`1
 |-- arc
 |-- R
 2
-|-- Io
+|-- Io`
 
 etc
 
